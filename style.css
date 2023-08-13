@@ -29,7 +29,7 @@ h1 {
 
 img {  
   border: 10px outset #dddddd;
-  text-align: right; 
+  float: right; 
 }
 
 h1{ 
