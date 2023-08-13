@@ -1,7 +1,7 @@
 body{ 
   background-color: #4449;
   color: #ddddd;
-  font-family: Arial, Helvetica, sans-serif; 
+  font-family: impact, Lucida Sans Unicode, Monospaced font; 
   Margin: 10% 20%;
 }
 
@@ -10,6 +10,29 @@ body{
   text-transform: uppercase;
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0,.1)
+  border-left: 3px dotted #dddddd;
+  border-right: 3px dotted #dddddd;
+  background-color: rgba(0,0,0,.3)
 }
   
+h1 { 
+  color: ;
+}
+
+ ul {
+  color: white;
+}
+
+ p { 
+  color: white;        
+} 
+
+img {  
+  border: 10px outset #dddddd;
+  text-align: right; 
+}
+
+h1{ 
+border-bottom: 3px groove
+ 
+}
