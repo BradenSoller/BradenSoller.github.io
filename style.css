@@ -8,8 +8,8 @@ body{
 .exp-header {
   text-align: center;
   text-transform: uppercase;
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
+  border-top: 3px dotted #dddddd;
+  border-bottom: 3px dotted #dddddd;
   border-left: 3px dotted #dddddd;
   border-right: 3px dotted #dddddd;
   background-color: rgba(0,0,0,.3)
